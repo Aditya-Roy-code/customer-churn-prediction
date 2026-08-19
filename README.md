@@ -198,7 +198,7 @@ By identifying high-risk customers, a company can potentially:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Aditya Roy**
 
 Machine Learning & Data Analytics Project
 
